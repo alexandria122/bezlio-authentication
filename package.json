@@ -1,0 +1,38 @@
+{
+  "name": "bezlio-authentication",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "debug": "node-debug src/server.js"
+  },
+  "keywords": [],
+  "author": "bezlio",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^1.0.3",
+    "body": "^5.1.0",
+    "compression": "^1.7.1",
+    "documentdb": "^1.14.1",
+    "express": "^4.14.0",
+    "inversify": "^4.5.1",
+    "jsonwebtoken": "^8.1.0",
+    "morgan": "^1.7.0",
+    "reflect-metadata": "^0.1.10",
+    "rxjs": "^5.5.2"
+  },
+  "devDependencies": {
+    "@types/node": "^8.0.50",
+    "del": "*",
+    "gulp": "^3.9.1",
+    "gulp-typescript": "*",
+    "merge-stream": "^1.0.1",
+    "typescript": "^2.1.6",
+    "typescript-compiler": "^1.4.1-2"
+  },
+  "noAnalyze": true,
+  "engines": {
+    "node": "6.6.0"
+  }
+}

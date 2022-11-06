@@ -25,7 +25,7 @@
   "devDependencies": {
     "@types/node": "^8.0.50",
     "del": "*",
-    "gulp": "^3.9.1",
+    "gulp": "^4.0.2",
     "gulp-typescript": "*",
     "merge-stream": "^1.0.1",
     "typescript": "^2.1.6",

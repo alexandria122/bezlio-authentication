@@ -15,7 +15,7 @@
     "body": "^5.1.0",
     "compression": "^1.7.1",
     "documentdb": "^1.14.1",
-    "express": "^4.14.0",
+    "express": "^4.17.3",
     "inversify": "^4.5.1",
     "jsonwebtoken": "^8.1.0",
     "morgan": "^1.7.0",
